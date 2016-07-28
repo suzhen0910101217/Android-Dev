@@ -10,5 +10,5 @@ android开发工具： http://www.androiddevtools.cn/</br>
 **APP自动更新下载:** http://blog.csdn.net/shan_yao/article/details/51881913</br>
 **基于MVP+Retrofit+RxJava+MaterialDesign的App:** http://blog.csdn.net/sdkfjksf/article/details/51889828</br>
 **RecyclerView深入浅出：** http://kymjs.com/code/2016/07/10/01</br>
-**App Uninstall Watcher** http://coolerfall.com/android/android-app-uninstall-watcher
+**App Uninstall Watcher** http://coolerfall.com/android/android-app-uninstall-watcher</br>
 **Get running processes on Android** https://github.com/jaredrummler/AndroidProcesses
