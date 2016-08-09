@@ -9,5 +9,5 @@ android开发工具： http://www.androiddevtools.cn/</br>
 **基于MVP+Retrofit+RxJava+MaterialDesign的App:** http://blog.csdn.net/sdkfjksf/article/details/51889828</br>
 **RecyclerView深入浅出：** http://kymjs.com/code/2016/07/10/01</br>
 **App Uninstall Watcher** http://coolerfall.com/android/android-app-uninstall-watcher</br>
-**Android 开发人员常用的代码片段** https://github.com/Blankj/AndroidUtilCode
-**国内知名技术博客总结** http://asteam.cc/index.php/archives/10/
+**Android 开发人员常用的代码片段** https://github.com/Blankj/AndroidUtilCode</br>
+**国内知名技术博客总结** http://asteam.cc/index.php/archives/10/</br>
