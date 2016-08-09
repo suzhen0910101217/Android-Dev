@@ -29,6 +29,7 @@
 ##Package
 ###Android多渠道打包： http://blog.csdn.net/qq_23547831/article/details/51569261
 
-
+##Gradle
+###gradle-tips: https://github.com/shekhargulati/gradle-tips
 
 
