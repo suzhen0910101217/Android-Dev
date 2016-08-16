@@ -32,4 +32,10 @@
 ##Gradle
 ###gradle-tips: https://github.com/shekhargulati/gradle-tips
 
+##代码混淆
+###http://android.jobbole.com/84057/?sukey=3997c0719f151520c4c2cf85c6b3de2207556891432151abe38ad5bc33727f535178d16ebe0c332cf0a3b09825108ca6
+
+##ContentProvider
+###http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232011&idx=1&sn=d43e2fd554d85ea0b5bfe0d36f63e865&scene=1&srcid=0811ZrNMcKUHyfin89nBb5uf&from=groupmessage&isappinstalled=0#wechat_redirect
+
 
