@@ -40,9 +40,13 @@ if( 发现一个 Task 的 affinity == Activity 的 affinity ){
 
 比较以下启动流程:
 A(Default) -> B(singleTask)
+
 A(Default) -> B(singleTask) : B has a taskAffinity attribute
+
 A(default) -> B(singleTask) -> C(singleTask) -> B(singleTask) : B&C has a taskAffinity attribute
+
 A(default) –> B(singleInstance) –> C(default)
+
 A(default) –> B(singleTask) –> C(default)
 
 
