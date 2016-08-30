@@ -12,7 +12,7 @@ http://lizwangying.github.io/2016/08/21/Activity%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%8
 - 在栈顶: 不会新起 activity, 直接调用 onNewIntent 方法
 - 不在栈顶: 和标准模式一样
 
-###SingleInstance
+###singleInstance
 必定会在一个新的 Task 之中, 并且这个 Task 之中有且只能有一个 Activity 
 
 ###signleTask
