@@ -15,3 +15,8 @@
 [AndroidStudio插件汇总]https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/
 
 
+
+# Gradle
+
+### 使用Gradle管理你的Android Studio工程 
+http://www.flysnow.org/2015/03/30/manage-your-android-project-with-gradle.html
