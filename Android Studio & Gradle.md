@@ -1,5 +1,7 @@
 # android studio
 
+### [Android Studio 使用艺术] https://github.com/pinocc/Android-Dev/edit/master/Android%20Studio%20&%20Gradle.md
+
 ### 从 eclipse 转移到android studio 系列文章
 
 [从Eclipse到AndroidStudio（一）初次启动]http://www.jianshu.com/p/cc31cda29b79
