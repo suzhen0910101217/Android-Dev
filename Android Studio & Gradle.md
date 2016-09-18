@@ -1,6 +1,6 @@
 # android studio
 
-### [Android Studio 使用艺术] https://github.com/pinocc/Android-Dev/edit/master/Android%20Studio%20&%20Gradle.md
+### [Android Studio 使用艺术] https://quanke.gitbooks.io/android-studio/content/
 
 ### 从 eclipse 转移到android studio 系列文章
 
